@@ -1,0 +1,13 @@
+order_id,restaurant_name,customer_name,order_amount,order_date
+1,Honest,Tushar,450.00,2026-10-01
+2,La Pinoz Pizza,Amit,650.00,2026-10-02
+3,Udupi,Rahul,250.00,2026-10-03
+4,Honest,Amit,350.00,2026-10-04
+5,Dominos,Tushar,800.00,2026-10-05
+6,Udupi,Priya,300.00,2026-10-06
+7,La Pinoz Pizza,Rahul,550.00,2026-10-07
+8,Dominos,Amit,700.00,2026-10-08
+9,Honest,Priya,400.00,2026-10-09
+10,La Pinoz Pizza,Tushar,600.00,2026-10-10
+11,Dominos,Rahul,750.00,2026-10-11
+12,Udupi,Amit,200.00,2026-10-12
