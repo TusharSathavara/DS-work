@@ -1,0 +1,6 @@
+column,dtype,missing_count,unique_count
+flat_id,object,0,100
+month,object,0,12
+units_kwh,float64,60,341
+amount_inr,object,0,344
+paid,object,0,6
