@@ -1,0 +1,125 @@
+{
+    "status": "ok",
+    "data": [
+        {
+            "sponsor": "TechNova Solutions",
+            "amount_inr": 150000,
+            "contact": {
+                "city": "Bengaluru",
+                "tier": "Platinum"
+            }
+        },
+        {
+            "sponsor": "CloudMatrix Systems",
+            "amount_inr": 125000,
+            "contact": {
+                "city": "Hyderabad",
+                "tier": "Platinum"
+            }
+        },
+        {
+            "sponsor": "ByteCrafters Labs",
+            "amount_inr": 100000,
+            "contact": {
+                "city": "Pune",
+                "tier": "Gold"
+            }
+        },
+        {
+            "sponsor": "NextGen Robotics",
+            "amount_inr": 95000,
+            "contact": {
+                "city": "Mumbai",
+                "tier": "Gold"
+            }
+        },
+        {
+            "sponsor": "Quantum Dynamics",
+            "amount_inr": 85000,
+            "contact": {
+                "city": "Delhi",
+                "tier": "Gold"
+            }
+        },
+        {
+            "sponsor": "CyberShield Security",
+            "amount_inr": 75000,
+            "contact": {
+                "city": "Bengaluru",
+                "tier": "Gold"
+            }
+        },
+        {
+            "sponsor": "Apex Innovations",
+            "amount_inr": 60000,
+            "contact": {
+                "city": "Chennai",
+                "tier": "Silver"
+            }
+        },
+        {
+            "sponsor": "DataPulse Analytics",
+            "amount_inr": 55000,
+            "contact": {
+                "city": "Hyderabad",
+                "tier": "Silver"
+            }
+        },
+        {
+            "sponsor": "HyperLink Networks",
+            "amount_inr": 50000,
+            "contact": {
+                "city": "Gurugram",
+                "tier": "Silver"
+            }
+        },
+        {
+            "sponsor": "CodeCatalyst Hub",
+            "amount_inr": 45000,
+            "contact": {
+                "city": "Noida",
+                "tier": "Silver"
+            }
+        },
+        {
+            "sponsor": "Synergy Media Works",
+            "amount_inr": 40000,
+            "contact": {
+                "city": "Kolkata",
+                "tier": "Bronze"
+            }
+        },
+        {
+            "sponsor": "PixelCraft Studios",
+            "amount_inr": 35000,
+            "contact": {
+                "city": "Ahmedabad",
+                "tier": "Bronze"
+            }
+        },
+        {
+            "sponsor": "SwiftPay Fintech",
+            "amount_inr": 30000,
+            "contact": {
+                "city": "Bengaluru",
+                "tier": "Bronze"
+            }
+        },
+        {
+            "sponsor": "Visionary Ventures",
+            "amount_inr": 25000,
+            "contact": {
+                "city": "Jaipur",
+                "tier": "Bronze"
+            }
+        },
+        {
+            "sponsor": "PrimeCloud Infra",
+            "amount_inr": 20000,
+            "contact": {
+                "city": "Pune",
+                "tier": "Bronze"
+            }
+        }
+    ]
+}

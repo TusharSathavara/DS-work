@@ -1,0 +1,131 @@
+reg_id,student_id,event,college,ticket_inr,paid
+1,S001,Gaming,Crestview University,500,No
+2,S002,Music,Elite Technical Institute,500,No
+3,S003,Quiz,Frontier Institute of Science,500,Yes
+4,S004,Music,Apex Institute of Technology,100,Yes
+5,S005,Music,Elite Technical Institute,400,No
+6,S006,Coding,Frontier Institute of Science,300,Yes
+7,S007,Quiz,Delta Science Academy,300,No
+8,S008,Quiz,Elite Technical Institute,500,Yes
+9,S009,Quiz,Apex Institute of Technology,250,Yes
+10,S010,Music,Frontier Institute of Science,350,Yes
+11,S011,Gaming,Frontier Institute of Science,150,Yes
+12,S012,Quiz,Frontier Institute of Science,350,No
+13,S013,Music,Delta Science Academy,150,No
+14,S014,Coding,Elite Technical Institute,350,No
+15,S015,Gaming,Delta Science Academy,400,Yes
+16,S016,Coding,Beacon Engineering College,100,No
+17,S017,Gaming,Beacon Engineering College,100,No
+18,S018,Music,Elite Technical Institute,500,No
+19,S019,Dance,Delta Science Academy,50,Yes
+20,S020,Gaming,Apex Institute of Technology,450,Yes
+21,S021,Coding,Frontier Institute of Science,100,Yes
+22,S022,Music,Frontier Institute of Science,100,No
+23,S023,Gaming,Elite Technical Institute,200,No
+24,S024,Dance,Beacon Engineering College,200,No
+25,S025,Dance,Beacon Engineering College,50,Yes
+26,S026,Quiz,Frontier Institute of Science,450,Yes
+27,S027,Quiz,Elite Technical Institute,250,No
+28,S028,Coding,Delta Science Academy,200,Yes
+29,S029,Gaming,Beacon Engineering College,250,Yes
+30,S030,Gaming,Delta Science Academy,0,Yes
+31,S031,Quiz,Beacon Engineering College,200,Yes
+32,S032,Gaming,Beacon Engineering College,400,No
+33,S033,Gaming,Crestview University,450,Yes
+34,S034,Dance,Beacon Engineering College,50,Yes
+35,S035,Quiz,Apex Institute of Technology,0,Yes
+36,S036,Music,Elite Technical Institute,450,Yes
+37,S037,Quiz,Elite Technical Institute,500,No
+38,S038,Music,Delta Science Academy,400,No
+39,S039,Dance,Beacon Engineering College,450,Yes
+40,S040,Coding,Apex Institute of Technology,400,Yes
+41,S041,Gaming,Delta Science Academy,400,Yes
+42,S042,Dance,Crestview University,250,Yes
+43,S043,Gaming,Delta Science Academy,350,Yes
+44,S044,Coding,Delta Science Academy,500,Yes
+45,S045,Coding,Beacon Engineering College,0,No
+46,S046,Dance,Crestview University,450,Yes
+47,S047,Coding,Delta Science Academy,150,No
+48,S048,Music,Apex Institute of Technology,0,No
+49,S049,Coding,Apex Institute of Technology,350,Yes
+50,S050,Gaming,Elite Technical Institute,0,No
+51,S051,Gaming,Crestview University,100,No
+52,S052,Gaming,Crestview University,150,No
+53,S053,Gaming,Elite Technical Institute,350,No
+54,S054,Music,Delta Science Academy,250,No
+55,S055,Quiz,Crestview University,450,No
+56,S056,Dance,Apex Institute of Technology,300,Yes
+57,S057,Gaming,Apex Institute of Technology,350,No
+58,S058,Coding,Beacon Engineering College,50,No
+59,S059,Gaming,Crestview University,450,No
+60,S060,Coding,Delta Science Academy,500,Yes
+61,S061,Coding,Elite Technical Institute,350,No
+62,S062,Gaming,Elite Technical Institute,100,Yes
+63,S063,Music,Delta Science Academy,300,No
+64,S064,Coding,Frontier Institute of Science,100,Yes
+65,S065,Coding,Beacon Engineering College,300,Yes
+66,S066,Gaming,Elite Technical Institute,500,No
+67,S067,Coding,Crestview University,50,No
+68,S068,Coding,Beacon Engineering College,450,Yes
+69,S069,Gaming,Crestview University,250,No
+70,S070,Gaming,Apex Institute of Technology,100,Yes
+71,S071,Dance,Beacon Engineering College,100,Yes
+72,S072,Music,Elite Technical Institute,400,Yes
+73,S073,Music,Beacon Engineering College,300,Yes
+74,S074,Coding,Beacon Engineering College,200,Yes
+75,S075,Music,Beacon Engineering College,450,No
+76,S076,Coding,Frontier Institute of Science,300,Yes
+77,S077,Dance,Beacon Engineering College,400,Yes
+78,S078,Gaming,Crestview University,0,No
+79,S079,Gaming,Apex Institute of Technology,300,Yes
+80,S080,Gaming,Delta Science Academy,250,No
+81,S081,Music,Beacon Engineering College,450,No
+82,S082,Dance,Elite Technical Institute,400,No
+83,S083,Music,Beacon Engineering College,0,Yes
+84,S084,Music,Elite Technical Institute,150,Yes
+85,S085,Dance,Crestview University,400,Yes
+86,S086,Dance,Elite Technical Institute,150,No
+87,S087,Dance,Delta Science Academy,450,Yes
+88,S088,Dance,Apex Institute of Technology,100,No
+89,S089,Gaming,Elite Technical Institute,400,Yes
+90,S090,Quiz,Elite Technical Institute,50,No
+91,S091,Quiz,Apex Institute of Technology,150,Yes
+92,S092,Dance,Delta Science Academy,250,Yes
+93,S093,Quiz,Beacon Engineering College,50,Yes
+94,S094,Quiz,Elite Technical Institute,350,No
+95,S095,Dance,Apex Institute of Technology,350,No
+96,S096,Quiz,Crestview University,0,Yes
+97,S097,Music,Apex Institute of Technology,100,Yes
+98,S098,Coding,Crestview University,450,No
+99,S099,Coding,Delta Science Academy,400,No
+100,S100,Dance,Beacon Engineering College,200,No
+101,S101,Gaming,Apex Institute of Technology,250,Yes
+102,S102,Dance,Frontier Institute of Science,150,No
+103,S103,Gaming,Elite Technical Institute,450,Yes
+104,S104,Coding,Delta Science Academy,50,No
+105,S105,Dance,Apex Institute of Technology,500,Yes
+106,S106,Music,Elite Technical Institute,350,No
+107,S107,Quiz,Apex Institute of Technology,500,No
+108,S108,Gaming,Crestview University,250,No
+109,S109,Quiz,Apex Institute of Technology,200,No
+110,S110,Quiz,Frontier Institute of Science,400,No
+111,S111,Dance,Apex Institute of Technology,0,Yes
+112,S112,Quiz,Apex Institute of Technology,200,No
+113,S113,Music,Frontier Institute of Science,250,No
+114,S114,Quiz,Delta Science Academy,200,No
+115,S115,Dance,Apex Institute of Technology,250,Yes
+116,S116,Music,Frontier Institute of Science,250,No
+117,S117,Coding,Elite Technical Institute,300,Yes
+118,S118,Quiz,Crestview University,150,No
+119,S119,Dance,Crestview University,500,No
+120,S120,Coding,Apex Institute of Technology,350,Yes
+121,S121,Coding,Delta Science Academy,300,No
+122,S122,Gaming,Delta Science Academy,400,Yes
+123,S123,Music,Elite Technical Institute,300,Yes
+124,S124,Quiz,Apex Institute of Technology,100,No
+125,S125,Dance,Crestview University,100,Yes
+126,S126,Gaming,Delta Science Academy,350,No
+127,S127,Music,Apex Institute of Technology,200,No
+128,S128,Gaming,Delta Science Academy,150,Yes
+129,S129,Music,Frontier Institute of Science,350,Yes
+130,S130,Music,Delta Science Academy,250,Yes
