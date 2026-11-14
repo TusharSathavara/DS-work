@@ -1,0 +1,5 @@
+dataset,row_count,column_count,mean_price_inr
+raw,400,7,80065.47631578948
+drop_any,300,7,80424.97666666667
+drop_thresh,387,7,80147.07754010695
+bikes_filled,400,7,80346.2925

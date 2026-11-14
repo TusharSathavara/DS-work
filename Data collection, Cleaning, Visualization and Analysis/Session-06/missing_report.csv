@@ -1,0 +1,8 @@
+column,missing_count,missing_percentage,mechanism
+listing_id,0,0.0,No missing values
+brand,0,0.0,No missing values
+city,0,0.0,No missing values
+model_year,0,0.0,No missing values
+km_driven,32,8.0,MCAR
+owner_count,61,15.25,MAR
+price_inr,20,5.0,MNAR
