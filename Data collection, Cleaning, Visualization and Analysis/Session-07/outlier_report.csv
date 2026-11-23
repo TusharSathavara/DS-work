@@ -1,0 +1,3 @@
+column,iqr_lower_fence,iqr_upper_fence,iqr_outlier_count,z_score_outlier_count
+price_inr,-27488.0,191682.0,10,9
+km_driven,-37983.75,130950.25,6,6
