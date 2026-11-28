@@ -1,0 +1,10 @@
+metric,value
+Total trips,600
+Unique trip IDs,600
+Date range start,2025-04-01
+Date range end,2025-04-30
+Number of areas,5
+Mean fare (INR),147.42
+Trips up to 5 km,168
+Trips over 5 km,432
+All four PNG files exist,True
