@@ -1,0 +1,29 @@
+column,value,count_before,count_after
+brand,Rajhans,97,110.0
+brand,Rajhans   ,5,
+brand,Sundar,89,96.0
+brand,Sundar   ,2,
+brand,Tarang,80,97.0
+brand,Tarang   ,9,
+brand,Veloce,74,97.0
+brand,Veloce   ,2,
+brand,Velose,12,
+brand,rajhans,8,
+brand,sundar,5,
+brand,tarang,7,
+brand,tarang   ,1,
+brand,veloce,9,
+city,Ahmdabad,12,
+city,Ahmedabad,77,99.0
+city,Ahmedabad   ,7,
+city,Rajkot,98,110.0
+city,Rajkot   ,2,
+city,Surat,81,88.0
+city,Surat   ,4,
+city,Vadodara,86,103.0
+city,Vadodara   ,6,
+city,ahmedabad,3,
+city,rajkot,10,
+city,surat,2,
+city,surat   ,1,
+city,vadodara,11,

@@ -1,0 +1,6 @@
+stage,row_count,unique_listing_ids,exact_duplicate_rows
+Original Session 07 dataset,400,400,0
+After adding 25 exact copies and 10 relisted rows,435,400,25
+After drop_duplicates(),410,400,0
+After keeping latest row per listing_id,400,400,0
+Final cleaned dataset,400,400,0
