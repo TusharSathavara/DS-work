@@ -1,0 +1,11 @@
+metric,value
+Total transactions,3000
+Minimum amount (INR),10
+Maximum amount (INR),4999
+Grand total from daily resampling (INR),7465871
+Grand total from weekly resampling (INR),7465871
+Grand total from monthly resampling (INR),7465871
+First timestamp before conversion (UTC),2025-01-01 02:15:00+00:00
+First timestamp after conversion (Asia/Kolkata),2025-01-01 07:45:00+05:30
+Busiest hour before conversion (UTC),4
+Busiest hour after conversion (Asia/Kolkata),8
